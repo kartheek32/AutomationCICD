@@ -16,7 +16,7 @@ public class StandAlone3 {
 
     public static void main(String[] args) {
 
-//New Comments
+//Added new comments section
         String productName = "IPHONE 13 PRO";
 
         ChromeOptions options = new ChromeOptions();
